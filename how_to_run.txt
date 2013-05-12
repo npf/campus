@@ -1,0 +1,5 @@
+apt-get install dosbox && dosbox
+
+mount d /path/to/campus/directory/
+d:
+CAMPUSB 
