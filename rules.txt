@@ -1,0 +1,43 @@
+                                ************
+                                *  CAMPUS  *
+                                ************
+                  Un jeux con‡u et r‚alis‚ par Pierre NEYRON
+                         Interdit aux plus de 98 ans 
+
+BUT DU JEU :
+Effacer tous les nombres de la grille en faisant le maximum de points.
+LANCEMENT DU JEU :
+Ex‚cuter le fichier CA.bat pour la version SOUND BLASTER.
+Ex‚cuter le fichier CAMPUSB.exe pour la version BUZZER.
+DEROULEMENT : 
+Les d‚s sont jet‚s, ils affichent 2 nombres :
+- soit ces 2 nombres sont diff‚rents, alors la somme maximale est ‚gale … leur 
+somme.
+- soit ils sont identiques, dans ce cas la somme maximale est ‚gale au double 
+de leur somme;
+En fonction du r‚sultat des d‚s, le joueur peut effacer un ou des nombres de 
+la grille tant que leur somme est inf‚rieure ou ‚gale … la somme maximum des 
+d‚s. 
+Si le nombre effac‚ est ‚gal … la somme des d‚s, alors les d‚s sont … nouveau 
+tir‚s.
+Si le nombre est inf‚rieur, le programme indique le nombre ou la somme de nombre 
+que l'on peut encore effacer dans somme restante.
+Si la somme restante est plus petite que le plus petit nombre de la grille ou 
+si on veut un nouveau tirage, on presse "++" au clavier.
+Il en est de mˆme aux tirages suivants.
+  Remarques: 
+Le num‚ro de chaque case est affich‚ en petit caractŠres au bas de chacune.
+La valeur num‚rique de chaque case est repr‚sent‚e par les gros chiffres.
+Pour s‚lectionner les case 1, 2, 3, 5, 7 etc. il faut taper 01, 02, 03, 05, 07 
+etc.
+LES BONUS :
+Chaque ‚toile dans la grille compte comme une case vide (elle ne peut pas ˆtre 
+effac‚e directement).
+Lorsqu'une ligne, colonne ou diagonale ne contient plus qu'un nombre, et 
+des ‚toiles facultativement, elle est complŠtement effac‚e.
+SCORE : 
+Chaque nombre effac‚ convertit sa valeur en point(s).
+Chaque ‚toile effac‚e apporte 25 points.
+Chaque tirage enlŠve 10 points (Le premier tirage est gratuit).
+                                BONNE CHANCE
+                                                                         npf
