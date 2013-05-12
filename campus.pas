@@ -2,7 +2,7 @@
 **        Programme CAMPUS r‚alis‚ fin aout 1993 par Pierre Neyron         **
 ****************************************************************************}
 program  campus;
-uses graph,crt;
+uses ptcgraph,ptccrt;
 
 var att:char;
     cond,t:boolean;
